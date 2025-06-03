@@ -69,6 +69,8 @@ class HomeScreen extends StatelessWidget {
                 'Delete',
                 style: TextStyle(
                   color: AppColor.primaryColor,
+
+                  
                   fontSize: 15,
                 ),
               ),
