@@ -62,15 +62,11 @@ class HomeScreen extends StatelessWidget {
             child: ElevatedButton(
               onPressed: (){
 
-
-
               },
               child: Text(
                 'Delete',
                 style: TextStyle(
                   color: AppColor.primaryColor,
-
-                  
                   fontSize: 15,
                 ),
               ),
